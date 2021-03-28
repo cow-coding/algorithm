@@ -7,6 +7,7 @@
 
 ## CodeJam 2021 
 ![C++](https://img.shields.io/badge/Code-C++-00897B?style=plastic&logo=c%2B%2B&logoColor=white)  
+[CodeJam 2021 - Qualification](https://github.com/cow-coding/algorithm/tree/master/CodeJam/2021/Qualification)
 
 
 ## LeetCode 
